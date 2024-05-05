@@ -1,1 +1,1 @@
-Esta API foi desenvolvida com Node.db, ela tem como objetivo fazer crud de filmes.
+Esta API foi desenvolvida com Node.js e Mongodb Atlas, ela tem como objetivo fazer crud de filmes.
